@@ -17,14 +17,14 @@
 
 ![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
 
-- [📘 Module 3](#-day-3)
+- [📘 Module 3](#-module-3)
   - [Boolean](#boolean)
   - [Operators](#operators)
     - [Assignment Operators](#assignment-operators)
     - [Arithmetic Operators:](#arithmetic-operators)
     - [Comparison Operators](#comparison-operators)
     - [Logical Operators](#logical-operators)
-  - [💻 Exercises - Day 3](#-exercises---day-3)
+  - [💻 Exercises - Module 3](#-exercises---module-3)
 
 # 📘 Module 3
 

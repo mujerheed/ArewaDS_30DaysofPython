@@ -53,8 +53,8 @@ example
 
 ![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
-- [🐍  Arewa Data Science Academy Python Programming for Data Science  🐍](#--arewa-data-science-30-days-of-python--)
-- [📘 Module 1](#-day-1)
+- [🐍  Arewa Data Science Academy Python Programming for Data Science 🐍](#--arewa-data-science-academy-python-programming-for-data-science-)
+- [📘 Module 1](#-module-1)
   - [Welcome](#welcome)
   - [Introduction](#introduction)
   - [Why Python ?](#why-python-)
@@ -77,7 +77,7 @@ example
       - [Set](#set)
     - [Checking Data types](#checking-data-types)
     - [Python File](#python-file)
-  - [💻 Exercises - Day 1](#-exercises---day-1)
+  - [💻 Exercises - Module 1](#-exercises---module-1)
     - [Exercise: Level 1](#exercise-level-1)
     - [Exercise: Level 2](#exercise-level-2)
     - [Exercise: Level 3](#exercise-level-3)
